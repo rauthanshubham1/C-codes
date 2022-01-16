@@ -1,2 +1,2 @@
 # C-codes
-This is personal codes
+This is just basic codes
